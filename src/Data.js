@@ -47,7 +47,7 @@ export const categories = [
   export const popularProducts = [
     {
       id:1,
-      img:"https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+      img:"https://m.media-amazon.com/images/I/514hSj0dlyL._SL500_.jpg",
     },
     {
       id:2,
@@ -77,4 +77,4 @@ export const categories = [
       id:8,
       img:"https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
     },
-  ]
+  ];
