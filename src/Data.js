@@ -43,7 +43,6 @@ export const categories = [
     },
   ];
 
-
   export const popularProducts = [
     {
       id:1,
@@ -51,7 +50,7 @@ export const categories = [
     },
     {
       id:2,
-      img:"https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+      img:"https://m.media-amazon.com/images/I/61KAvK9hDXL._UX569_.jpg",
     },
     {
       id:3,
@@ -59,7 +58,7 @@ export const categories = [
     },
     {
       id:4,
-      img:"https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+      img:"https://www.pngplay.com/wp-content/uploads/6/Dress-Clothes-Background-PNG-Image.png",
     },
     {
       id:5,
@@ -71,7 +70,7 @@ export const categories = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://www.kindpng.com/picc/m/401-4011615_lady-popular-dress-png-transparent-png.png",
     },
     {
       id:8,
